@@ -53,3 +53,11 @@ for i in Historical_Returns:
 message = 'Hello'
 for i in message:
   print(i)
+
+for i in range(20,200,20):
+    print(i)
+
+counter = 5
+while counter > 0:
+ print("Counter = ",counter) 
+ counter = counter -1
