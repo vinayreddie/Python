@@ -48,3 +48,8 @@ Historical_Returns = [1, 2, 3, 4, 5]
 
 for i in Historical_Returns:
     print(i)
+
+
+message = 'Hello'
+for i in message:
+  print(i)
